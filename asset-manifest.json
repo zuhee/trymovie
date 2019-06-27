@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trymovie/static/css/main.e5b725da.chunk.css",
+    "main.js": "/trymovie/static/js/main.a84c025e.chunk.js",
+    "main.js.map": "/trymovie/static/js/main.a84c025e.chunk.js.map",
+    "runtime~main.js": "/trymovie/static/js/runtime~main.f60713b9.js",
+    "runtime~main.js.map": "/trymovie/static/js/runtime~main.f60713b9.js.map",
+    "static/js/2.e93332a3.chunk.js": "/trymovie/static/js/2.e93332a3.chunk.js",
+    "static/js/2.e93332a3.chunk.js.map": "/trymovie/static/js/2.e93332a3.chunk.js.map",
+    "index.html": "/trymovie/index.html",
+    "precache-manifest.f3d60611a7bac9d37d5196967d1e40be.js": "/trymovie/precache-manifest.f3d60611a7bac9d37d5196967d1e40be.js",
+    "service-worker.js": "/trymovie/service-worker.js",
+    "static/css/main.e5b725da.chunk.css.map": "/trymovie/static/css/main.e5b725da.chunk.css.map"
+  }
+}
